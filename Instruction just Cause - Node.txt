@@ -1,0 +1,5 @@
+Like you don't already know how to do this.
+-Just drop this folder in the addons folder...
+Changes -- -- --
+-I made the damage all down to 0 and the delay is currently 3 seconds.
+--This has been tested and is working fine.
